@@ -1,2 +1,2 @@
 # git_challenge_repo
-Making a repository on my own
+Cloning a repository on my own
